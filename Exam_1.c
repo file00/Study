@@ -1,4 +1,4 @@
-/* the face of a cat */
+/* The face of a cat */
 #include <stdio.h>
 
 int main() {
