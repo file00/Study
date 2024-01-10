@@ -1,3 +1,4 @@
+/* A program that outputs six numbers at random */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
