@@ -1,3 +1,4 @@
+/* A program that identifies the month by entering a number */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
