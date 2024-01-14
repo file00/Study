@@ -1,6 +1,5 @@
 /* A Program that output grades corresponding to the corresponding score (if_else_version) */
 
-
 #include <stdio.h>
 
 int main() {
