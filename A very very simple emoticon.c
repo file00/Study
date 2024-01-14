@@ -1,4 +1,4 @@
-/* Very very simple emoticon */
+/* A very very simple emoticon */
 
 #include <stdio.h>
 
