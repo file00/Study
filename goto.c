@@ -1,4 +1,4 @@
-/*goto*/
+/* goto */
 
 #include <stdio.h>
 
