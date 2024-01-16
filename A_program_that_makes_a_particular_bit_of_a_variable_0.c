@@ -1,9 +1,9 @@
 /* A program that makes a particular bit of a variable 0 */
 #include <stdio.h>
 
-unsigned char ResetBit(unsigned char n1, unsigned char n2){
+unsigned char ResetBit(unsigned char n1, unsigned char n2){ // Bit movement is possible from 0 to 7.
     if(n2 < 8) n1 = n1 & ~ (0x01 << n2); 
-    return n1;
+    return n1; // Returns the changed value.
 }
 
 int main() {
