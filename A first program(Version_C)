@@ -1,5 +1,5 @@
 /* A first program */
-#include <stdio.h>
+#include <stdio.h> // Directs the file named stdio.h to be read for file input/output.
 void main() {
 	printf("Hello~ world!!\n");
 }
