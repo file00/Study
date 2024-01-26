@@ -7,7 +7,7 @@ string name;
 
 int main() {
    
-    cout<<"Please enter your full name :";
+    cout << "Please enter your full name :";
     getline(cin, name);
     
     const string greeting = "Hello, " + name + "!";
