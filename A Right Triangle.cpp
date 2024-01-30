@@ -4,8 +4,7 @@
 using namespace std;
 
 int main() {
-    int i, j;
-	int num = 0x00;
+    int i, j, num;
 	cin >> num;
 	int count = 1;
 	
