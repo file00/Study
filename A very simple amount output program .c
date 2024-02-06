@@ -1,3 +1,4 @@
+/* A very simple amount output program */
 #include <stdio.h>
 
 int main() {
