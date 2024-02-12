@@ -9,7 +9,6 @@ int main() {
     cout << "4 ^ 7 = " << pow(4, 7) << endl;
     cout << endl;
     
-    system("pause");
     return 0;
 }
 
