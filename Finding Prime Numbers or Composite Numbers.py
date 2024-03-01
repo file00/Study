@@ -1,4 +1,4 @@
-# Finding prime numbers or composite numbers
+# Finding Prime Numbers or Composite Numbers
 
 # Choose all prime numbers from the following numbers.
 # Ex)
