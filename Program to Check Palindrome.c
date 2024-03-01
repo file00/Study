@@ -1,4 +1,6 @@
 /* Program to Check Palindrome */
+
+// Palindrome: Sentence that means the same when you read the letters backwards
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
@@ -7,14 +9,12 @@ int main() {
     printf("Enter an integer: ");
     scanf("%d", &n);
     original = n;
-
     // reversed integer is stored in reversed variable
     while (n != 0) {
         remainder = n % 10;
         reversed = reversed * 10 + remainder;
         n /= 10;
     }
-
     // palindrome if orignal and reversed are equal
     if (original == reversed)
         printf("%d is a palindrome.", original);
