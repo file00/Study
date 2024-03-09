@@ -1,4 +1,4 @@
-/* LCM (= Least Common Multiple) using while and if */
+/* LCM using while and if */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
