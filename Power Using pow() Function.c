@@ -13,6 +13,6 @@ int main() {
     // calculates the power
     result = pow(base, exp);
 
-    printf("%.1lf^%.1lf = %.2lf", base, exp, result);
+    printf("%.1lf ^ %.1lf = %.2lf", base, exp, result);
     return 0;
 }
