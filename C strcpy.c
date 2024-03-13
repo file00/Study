@@ -16,3 +16,4 @@ int main() {
 }
 
 // The strcpy() function copies the string pointed by source (including the null character) to the destination.
+// When you use strcpy(), the size of the destination string should be large enough to store the copied string. Otherwise, it may result in undefined behavior.
