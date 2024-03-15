@@ -1,4 +1,5 @@
- #define _CRT_SECURE_NO_WARNINGS
+/* Prime Numbers Between Two Integers */
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int checkPrimeNumber(int n);
