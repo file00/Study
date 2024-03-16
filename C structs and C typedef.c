@@ -41,3 +41,5 @@ int main() {
 
     return 0;
 }
+
+// C structs or Ctypedef results are the same, so I deliberately upload both because I think there is such grammar and I can choose and use it according to the situation.
