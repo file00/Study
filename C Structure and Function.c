@@ -60,3 +60,5 @@ void display(struct student s) {
 
 //     return s1;
 // }
+
+// /Return structures from a function/Partial results are the same as /Passing structures to functions/ above.
