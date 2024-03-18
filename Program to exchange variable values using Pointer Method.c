@@ -1,4 +1,4 @@
-/* A Program to exchange variable values using Pointer method */
+/* Program to exchange variable values using Pointer method */
 
 #include <stdio.h>
 
