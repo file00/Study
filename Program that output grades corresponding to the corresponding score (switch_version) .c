@@ -1,4 +1,4 @@
-/* A Program that output grades corresponding to the corresponding score (switch_version) */
+/* Program that output grades corresponding to the corresponding score (switch_version) */
 
 #include <stdio.h>
 
