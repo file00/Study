@@ -1,4 +1,4 @@
-/* A simple 'Pointer' example */
+/* Simple 'Pointer' example */
 
 #include <iostream>
 
