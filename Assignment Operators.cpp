@@ -6,8 +6,7 @@ using namespace std;
 int main() {
     int a, b;
 
-    a = 2;
-    b = 7;
+    a = 2, b = 7;
 
     cout << "a = " << a << endl;
     cout << "b = " << b << endl;
