@@ -14,7 +14,7 @@ int main() {
     cout << "\nAfter a += b;" << endl;
 
     // assigning the sum of a and b to a
-    a += b;  // a = a +b
+    a += b;  // a = a + b
     cout << "a = " << a << endl;
 
     return 0;
