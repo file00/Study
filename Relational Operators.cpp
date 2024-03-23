@@ -4,8 +4,7 @@
 using namespace std;
 
 int main() {
-    int a, b;
-    a = 3, b = 5;
+    int a = 3, b = 5;
     bool result;
 
     result = (a == b);   
