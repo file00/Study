@@ -1,5 +1,4 @@
 /* Random numbering */
-
 // Since the numbers are randomly outputted from 1 to 9, different numbers come out every time the code is outputted.
 #include <stdio.h>
 #include <stdlib.h>
