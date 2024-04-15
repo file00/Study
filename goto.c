@@ -16,9 +16,7 @@ int main() {
 }
 
 
-
-
-/*The goto is performed when the x value is 5 and the y value is 1.
+/* The goto is performed when the x value is 5 and the y value is 1.
 Goto moves to the label he designates, regardless of where he is.
 Therefore, if you perform a geto when the x value is 5 and the y value is 1, you will be moved to the exit_pos label, and the exit_pos position is the position where all the repetitions have ended, so it is possible only when the output is x = 5 and y = 0.
 -> If you are a beginner programmer, it is recommended not to use goto if possible. This is because it can destroy the structured grammar of language C by misusing it, and the reason why I posted this was to purely study that there is also such grammar.*/
