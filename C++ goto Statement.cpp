@@ -32,3 +32,8 @@ jump:
     cout << "\nAverage = " << average;
     return 0;
 }
+
+// Reason to Avoid goto Statement
+// The goto statement gives the power to jump to any part of a program but, makes the logic of the program complex and tangled.
+// In modern programming, the goto statement is considered a harmful construct and a bad programming practice.
+// The goto statement can be replaced in most of C++ program with the use of break and continue statements.
