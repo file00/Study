@@ -1,4 +1,4 @@
-/* C++ program to display a string entered by user */
+/* C++ String to Read a Word */
 #include <iostream>
 using namespace std;
 
