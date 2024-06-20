@@ -16,8 +16,6 @@ int main() {
 }
 
 /* Display Numbers from 1 to 5 (do while Version) */ 
-// #include <iostream>
-// using namespace std;
 
 // int main() {
 //     int i = 1; 
