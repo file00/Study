@@ -9,7 +9,9 @@ int main() {
     cin >> num1;
     cout << "Enter another number: ";
     cin >> num2;
-    
+
+    cout << fixed;
+    cout.precision(6);
     cout << "num1 = " << num1 << endl;
     cout << "num2 = " << num2 << endl;
 
