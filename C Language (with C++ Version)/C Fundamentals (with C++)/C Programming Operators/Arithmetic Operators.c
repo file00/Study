@@ -1,9 +1,8 @@
 /* Arithmetic Operators */
 // Working of arithmetic operators
 #include <stdio.h>
-int main()
-{
-    int a = 9,b = 4, c;
+int main() {
+    int a = 9, b = 4, c;
     
     c = a+b;
     printf("a+b = %d \n",c);
