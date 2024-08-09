@@ -1,3 +1,4 @@
+/* C Structure and Function */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
