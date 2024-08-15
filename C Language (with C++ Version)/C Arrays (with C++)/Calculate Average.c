@@ -1,6 +1,7 @@
 /* Calculate Average */
 // Program to find the average of n numbers using arrays
 
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
