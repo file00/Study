@@ -1,4 +1,5 @@
 /* Sum of Two Matrices */
+// C program to find the sum of two matrices of order 2*2
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
