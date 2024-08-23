@@ -1,5 +1,5 @@
 /* Logical Operators */
-// True == 1 and False == 0
+
 #include <iostream>
 using namespace std;
 
