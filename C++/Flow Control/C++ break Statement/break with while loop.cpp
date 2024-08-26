@@ -1,4 +1,4 @@
-/* Break with while loop */
+/* break with while loop */
 
 // program to find the sum of positive numbers
 // if the user enters a negative numbers, break ends the loop
