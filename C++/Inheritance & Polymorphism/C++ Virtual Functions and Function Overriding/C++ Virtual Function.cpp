@@ -1,4 +1,4 @@
-/* C++ virtual Function */
+/* C++ Virtual Function */
 
 #include <iostream>
 using namespace std;
