@@ -12,7 +12,7 @@ class Shape {
             return 0.0;
         }
 
-        ~Shape() = default;
+        virtual ~Shape() = default;
 };
 
 class Square: public Shape {
@@ -43,7 +43,7 @@ int main() {
     // pointer to Shape class pointing to Square object
     Shape* shape2 = new Square(2.5);
     cout << "area of square: " << shape2->get_area() << endl;
-    // invokes Shape class destructor
+    // invokes square class destructor
     delete shape2;
     return 0;
 }
