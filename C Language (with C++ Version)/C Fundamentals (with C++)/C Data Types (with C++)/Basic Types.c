@@ -18,6 +18,6 @@ int main() {
     printf("size of short = %ld bytes\n", sizeof(a));
     printf("size of long = %ld bytes\n", sizeof(b));
     printf("size of long long = %ld bytes\n", sizeof(c));
-    printf("size of long double= %ld bytes\n", sizeof(d));
+    printf("size of long double = %ld bytes\n", sizeof(d));
   return 0;
 }
