@@ -1,6 +1,7 @@
 # Main purpose of this repositoryie
-This repositoryie is purely where my main purpose is to record what I have studied.
+This repository is purely for organizing and recording what I have studied.
 
-Personally, I will only post materials that are not very long in code from the most basic parts.
+Personally, I'm going to post basic concept-oriented, and only the core content without long codes.
 
-For your information, in the case of C language, I will also write the same code for the C++ version and upload it together.
+The programming languages to cover are C language, Python, HTML & CSS,
+In case of language C, I will write the same code in C++ version and upload it together.
