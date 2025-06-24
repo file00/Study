@@ -1,6 +1,7 @@
 /* scanf() to read a string */
 
 #include <stdio.h>
+
 int main()
 {
     char name[20];
