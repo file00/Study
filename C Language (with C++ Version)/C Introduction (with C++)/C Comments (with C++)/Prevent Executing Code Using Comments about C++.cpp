@@ -1,4 +1,4 @@
-/* Prevent Executing Code Using Comments about C++ */ 
+// Prevent Executing Code Using Comments about C++ 
 using namespace std;
 #include <iostream>
 
