@@ -1,4 +1,4 @@
-/* Prevent Executing Code Using Comments */
+// Prevent Executing Code Using Comments
 #include <stdio.h>
 
 int main() {
