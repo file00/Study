@@ -1,4 +1,4 @@
-/* Single-line Comments in C++ */
+// Single-line Comments in C++ 
 using namespace std;
 #include <iostream>
 
