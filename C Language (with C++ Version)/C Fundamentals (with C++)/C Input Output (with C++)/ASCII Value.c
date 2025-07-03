@@ -1,4 +1,4 @@
-/* ASCII Value */
+// ASCII Value 
 #include <stdio.h>
 int main() {
     char chr;
