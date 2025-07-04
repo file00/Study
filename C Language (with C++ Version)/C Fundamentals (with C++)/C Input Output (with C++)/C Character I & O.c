@@ -1,4 +1,4 @@
-/* C Character I/O */
+// C Character I/O 
 #include <stdio.h>
 int main()
 {
