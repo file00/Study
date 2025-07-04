@@ -1,4 +1,4 @@
-/* I/O Multiple Values */
+// I/O Multiple Values 
 #include <stdio.h>
 int main()
 {
