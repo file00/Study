@@ -1,4 +1,4 @@
-/* Increment and Decrement Operators */
+// Increment and Decrement Operators 
 // Working of increment and decrement operators
 #include <stdio.h>
 int main()
