@@ -1,4 +1,4 @@
-/* sizeof Operator */
+// sizeof Operator 
 #include <stdio.h>
 int main()
 {
