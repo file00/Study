@@ -1,4 +1,4 @@
-/* Logical Operators */
+// Logical Operators 
 // Working of logical operators
 
 #include <stdio.h>
