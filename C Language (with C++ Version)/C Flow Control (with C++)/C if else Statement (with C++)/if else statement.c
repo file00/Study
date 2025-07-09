@@ -1,4 +1,4 @@
-/*  if...else statement */
+// if...else statement 
 // Check whether an integer is odd or even
 
 #include <stdio.h>
