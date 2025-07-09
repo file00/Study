@@ -1,4 +1,4 @@
-/* C if...else Ladder */
+// C if...else Ladder 
 // Program to relate two integers using =, > or < symbol
 
 #include <stdio.h>
