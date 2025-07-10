@@ -1,4 +1,4 @@
-/* if statement */
+// if statement 
 // Program to display a number if it is negative
 
 #include <stdio.h>
