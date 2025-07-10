@@ -1,4 +1,4 @@
-/* Nested if...else */
+// Nested if...else 
 
 #include <stdio.h>
 int main() {
