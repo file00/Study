@@ -1,4 +1,4 @@
-/* break statement */
+// break statement 
 // Program to calculate the sum of numbers (10 numbers max)
 // If the user enters a negative number, the loop terminates
 
