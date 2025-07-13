@@ -1,4 +1,4 @@
-/* for loop */
+// for loop 
 // Print numbers from 1 to 10
 #include <stdio.h>
 
