@@ -1,4 +1,4 @@
-/* do...while loop */
+// do...while loop 
 // Program to add numbers until the user enters zero
 
 #include <stdio.h>
