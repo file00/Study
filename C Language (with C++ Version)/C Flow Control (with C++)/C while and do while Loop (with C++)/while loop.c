@@ -1,4 +1,4 @@
-/* while loop */
+// while loop 
 // Print numbers from 1 to 5
 
 #include <stdio.h>
