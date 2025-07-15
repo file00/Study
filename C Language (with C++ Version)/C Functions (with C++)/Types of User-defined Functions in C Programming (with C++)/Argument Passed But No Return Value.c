@@ -1,4 +1,4 @@
-/* Argument Passed But No Return Value */
+// Argument Passed But No Return Value 
 #include <stdio.h>
 void checkPrimeAndDisplay(int n);
 
