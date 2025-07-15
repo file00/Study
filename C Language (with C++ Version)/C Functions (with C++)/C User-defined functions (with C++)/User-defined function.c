@@ -1,4 +1,4 @@
-/* User-defined function */
+// User-defined function 
 #include <stdio.h>
 int addNumbers(int a, int b);         // function prototype
 
