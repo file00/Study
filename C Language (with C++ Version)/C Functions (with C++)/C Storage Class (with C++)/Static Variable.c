@@ -1,4 +1,4 @@
-/* Static Variable */
+// Static Variable 
 
 #include <stdio.h>
 void display();
