@@ -1,4 +1,4 @@
-/* Global Variable */
+// Global Variable 
 #include <stdio.h>
 void display();
 
