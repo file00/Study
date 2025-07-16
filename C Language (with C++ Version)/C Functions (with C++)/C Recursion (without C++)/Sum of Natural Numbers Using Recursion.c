@@ -1,4 +1,4 @@
-/* Sum of Natural Numbers Using Recursion */
+// Sum of Natural Numbers Using Recursion 
 #include <stdio.h>
 int sum(int n);
 
