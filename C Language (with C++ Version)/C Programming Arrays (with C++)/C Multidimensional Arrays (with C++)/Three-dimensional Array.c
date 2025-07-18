@@ -1,4 +1,4 @@
-/* Three-dimensional Array */
+// Three-dimensional Array 
 
 // C Program to store and print 12 values entered by the user
 
