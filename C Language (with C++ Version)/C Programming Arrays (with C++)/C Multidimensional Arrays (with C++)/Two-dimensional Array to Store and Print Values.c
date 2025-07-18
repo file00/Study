@@ -1,4 +1,4 @@
-/* Two-dimensional Array to Store and Print Values */
+// Two-dimensional Array to Store and Print Values 
 
 // C program to store temperature of two cities of a week and display it.
 
