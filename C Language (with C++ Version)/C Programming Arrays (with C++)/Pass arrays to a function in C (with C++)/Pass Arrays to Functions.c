@@ -1,4 +1,4 @@
-/* Pass Arrays to Functions */
+// Pass Arrays to Functions 
 
 // Program to calculate the sum of array elements by passing to a function 
 #define _CRT_SECURE_NO_WARNINGS
