@@ -1,4 +1,4 @@
-/* Pass two-dimensional arrays */
+// Pass two-dimensional arrays 
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
