@@ -1,4 +1,4 @@
-/* Read from a Text File */
+// Read from a Text File 
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
