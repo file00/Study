@@ -1,4 +1,4 @@
-/* Write to a Binary File using fwrite() */
+// Write to a Binary File using fwrite() 
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
