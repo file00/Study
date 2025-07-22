@@ -1,4 +1,4 @@
-/* Write to a Text File */
+// Write to a Text File 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
