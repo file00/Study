@@ -1,4 +1,4 @@
-/* Read from a binary file using fread() */
+// Read from a binary file using fread() 
 
 #include <stdio.h>
 #include <stdlib.h>
