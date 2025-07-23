@@ -1,4 +1,4 @@
-/* C File Example 2 */
+// C File Example 2 
 // 2. C program to write all the members of an array of structures to a file using fwrite(). 
 // Read the array from the file and display on the screen.
 
