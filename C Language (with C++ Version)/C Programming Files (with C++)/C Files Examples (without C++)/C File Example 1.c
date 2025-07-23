@@ -1,4 +1,4 @@
-/* C File Example 1 */
+// C File Example 1 
 // 1. C program to read name and marks of n number of students and store them in a file.
 
 #define _CRT_SECURE_NO_WARNINGS
