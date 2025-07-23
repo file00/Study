@@ -1,4 +1,4 @@
-/* fseek() */
+// fseek() 
 
 #include <stdio.h>
 #include <stdlib.h>
