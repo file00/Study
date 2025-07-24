@@ -1,5 +1,4 @@
-/* Bitwise OR */
-
+// Bitwise OR 
 #include <stdio.h>
 
 int main() {
