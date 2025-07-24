@@ -1,5 +1,4 @@
-/* Bitwise AND */
-
+// Bitwise AND 
 #include <stdio.h>
 
 int main() {
