@@ -1,5 +1,4 @@
-/* Bitwise XOR */
-
+// Bitwise XOR 
 #include <stdio.h>
 
 int main() {
