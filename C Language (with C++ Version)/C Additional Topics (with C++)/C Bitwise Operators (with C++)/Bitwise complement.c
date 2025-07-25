@@ -1,5 +1,4 @@
-/* Bitwise complement */
-
+// Bitwise complement 
 #include <stdio.h>
 
 int main() {
