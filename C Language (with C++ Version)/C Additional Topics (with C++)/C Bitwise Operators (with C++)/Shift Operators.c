@@ -1,5 +1,4 @@
-/* Shift Operators */
-
+// Shift Operators 
 #include <stdio.h>
 
 int main() {
