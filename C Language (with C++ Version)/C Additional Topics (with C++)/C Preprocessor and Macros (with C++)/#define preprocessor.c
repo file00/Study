@@ -1,4 +1,4 @@
-/* #define preprocessor */
+// #define preprocessor 
 
 #include <stdio.h>
 #define PI 3.1415
