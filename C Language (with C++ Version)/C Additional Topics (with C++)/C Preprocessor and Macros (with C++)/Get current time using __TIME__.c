@@ -1,4 +1,4 @@
-/* Get current time using __TIME__ */
+// Get current time using __TIME__ 
 
 #include <stdio.h>
 int main()
