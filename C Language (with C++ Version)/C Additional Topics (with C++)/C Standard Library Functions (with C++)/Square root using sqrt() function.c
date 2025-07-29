@@ -1,4 +1,4 @@
-/* Square root using sqrt() function */
+// Square root using sqrt() function 
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
