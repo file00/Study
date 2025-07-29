@@ -1,4 +1,4 @@
-/* Enumeration Type */
+// Enumeration Type 
 
 #include <stdio.h>
 
