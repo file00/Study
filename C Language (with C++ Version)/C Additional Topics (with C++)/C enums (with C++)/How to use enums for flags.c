@@ -1,4 +1,4 @@
-/* How to use enums for flags? */
+// How to use enums for flags? 
 
 #include <stdio.h>
 
