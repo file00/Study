@@ -1,4 +1,4 @@
-/* Why enums are used? */
+// Why enums are used? 
 
 #include <stdio.h>
 
