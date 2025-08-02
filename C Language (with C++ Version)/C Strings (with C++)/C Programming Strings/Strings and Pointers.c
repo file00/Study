@@ -1,4 +1,4 @@
-/* Strings and Pointers */
+// Strings and Pointers 
 
 #include <stdio.h>
 
