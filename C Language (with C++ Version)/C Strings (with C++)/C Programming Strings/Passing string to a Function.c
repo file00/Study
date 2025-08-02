@@ -1,4 +1,4 @@
-/* Passing string to a Function */
+// Passing string to a Function 
 
 #include <stdio.h>
 void displayString(char str[]);
