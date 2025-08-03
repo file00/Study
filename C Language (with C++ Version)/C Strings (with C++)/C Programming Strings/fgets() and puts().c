@@ -1,4 +1,4 @@
-/* fgets() and puts() */
+// fgets() and puts() 
 #include <stdio.h>
 
 int main() {
