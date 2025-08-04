@@ -1,4 +1,4 @@
-/* scanf() to read a string */
+// scanf() to read a string 
 
 #include <stdio.h>
 
