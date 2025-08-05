@@ -1,4 +1,4 @@
-/* gets() and puts() */
+// gets() and puts() 
 
 #include<stdio.h>
 
