@@ -1,4 +1,4 @@
-/* C Nested Structures */
+// C Nested Structures 
 
 #include <stdio.h>
 
