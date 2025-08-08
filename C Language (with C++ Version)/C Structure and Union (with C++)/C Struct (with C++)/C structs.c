@@ -1,4 +1,4 @@
-/* C structs */
+// C structs 
 
 #include <stdio.h>
 #include <string.h>
