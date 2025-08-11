@@ -1,6 +1,6 @@
 // Single-line Comments in C++ 
-using namespace std;
 #include <iostream>
+using namespace std;
 
 int main()
 {
