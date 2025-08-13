@@ -1,6 +1,6 @@
 // Prevent Executing Code Using Comments about C++ 
-using namespace std;
 #include <iostream>
+using namespace std;
 
 int main()
 {
