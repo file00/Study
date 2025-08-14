@@ -1,6 +1,6 @@
 // Variables 
-using namespace std;
 #include <iostream>
+using namespace std;
 
 int main() {
     int age = 25;
@@ -13,4 +13,5 @@ int main() {
     cout << ch;
 
     return 0;
+
 }
