@@ -1,7 +1,7 @@
 // Constants 
-using namespace std;
 #include <iostream>
 #include <iomanip>
+using namespace std;
 
 int main() {
     const double PI = 3.14;
@@ -10,4 +10,5 @@ int main() {
     cout << fixed << setprecision(2) << PI;         // 3.14
 
     return 0;
+
 }
