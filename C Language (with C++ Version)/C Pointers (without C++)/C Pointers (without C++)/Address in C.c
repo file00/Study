@@ -1,4 +1,4 @@
-/* Address in C */
+// Address in C 
 
 #include <stdio.h>
 
