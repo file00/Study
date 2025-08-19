@@ -1,4 +1,4 @@
-/* Dynamic memory allocation of structs */
+// Dynamic memory allocation of structs 
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -36,4 +36,5 @@ int main()
        printf("Name: %s\tAge: %d\n", (ptr+i)->name, (ptr+i)->age);
 
    return 0;
+
 }
