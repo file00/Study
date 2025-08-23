@@ -1,4 +1,4 @@
-/* Passing struct by reference */
+// Passing struct by reference 
 
 #include <stdio.h>
 typedef struct Complex
@@ -31,6 +31,7 @@ int main()
     
     return 0;
 }
+
 void addNumbers(complex c1, complex c2, complex *result) 
 {
      result->real = c1.real + c2.real;
