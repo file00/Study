@@ -1,4 +1,4 @@
-/* Arrays and Pointers (other Version) */
+// Arrays and Pointers (other Version) 
 
 #include <stdio.h>
 
