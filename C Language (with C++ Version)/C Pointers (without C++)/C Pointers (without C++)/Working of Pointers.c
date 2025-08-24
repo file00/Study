@@ -1,4 +1,4 @@
-/* Working of Pointers */
+// Working of Pointers 
 
 #include <stdio.h>
 int main()
