@@ -1,4 +1,4 @@
-/* realloc() */
+// realloc() 
 
 #include <stdio.h>
 #include <stdlib.h>
