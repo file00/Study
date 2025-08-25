@@ -1,5 +1,4 @@
-/* malloc() and free() */
-
+// malloc() and free() 
 // Program to calculate the sum of n numbers entered by the user
 
 #include <stdio.h>
