@@ -1,4 +1,4 @@
-/* Pass Addresses to Functions */
+// Pass Addresses to Functions 
 
 #include <stdio.h>
 void swap(int *n1, int *n2);
