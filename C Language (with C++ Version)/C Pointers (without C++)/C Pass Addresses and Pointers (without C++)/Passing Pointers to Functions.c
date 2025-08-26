@@ -1,4 +1,4 @@
-/* Passing Pointers to Functions */
+// Passing Pointers to Functions 
 
 #include <stdio.h>
 
