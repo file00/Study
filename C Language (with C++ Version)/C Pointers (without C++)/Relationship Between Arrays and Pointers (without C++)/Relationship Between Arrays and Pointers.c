@@ -1,4 +1,4 @@
-/* Relationship Between Arrays and Pointers */
+// Relationship Between Arrays and Pointers 
 
 #include <stdio.h>
 int main() {
