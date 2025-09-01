@@ -1,4 +1,4 @@
-/* Return struct from a function */
+// Return struct from a function 
 
 #include <stdio.h>
 struct student
