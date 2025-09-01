@@ -1,4 +1,4 @@
-/* Difference between unions and structures */
+// Difference between unions and structures 
 
 #include <stdio.h>
 union unionJob
