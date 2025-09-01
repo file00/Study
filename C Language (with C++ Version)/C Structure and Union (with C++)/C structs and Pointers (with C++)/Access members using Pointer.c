@@ -1,4 +1,4 @@
-/* Access members using Pointer */
+// Access members using Pointer 
 
 #include <stdio.h>
 struct person
