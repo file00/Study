@@ -1,4 +1,4 @@
-/* Accessing Union Members */
+// Accessing Union Members 
 
 #include <stdio.h>
 union Job {
