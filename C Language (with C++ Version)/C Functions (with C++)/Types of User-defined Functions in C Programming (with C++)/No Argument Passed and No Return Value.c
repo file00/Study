@@ -1,4 +1,4 @@
-/* No Argument Passed and No Return Value */
+// No Argument Passed and No Return Value 
 #include <stdio.h>
 
 void checkPrimeNumber();
