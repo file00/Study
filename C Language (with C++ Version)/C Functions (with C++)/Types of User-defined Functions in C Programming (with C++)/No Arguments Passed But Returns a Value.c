@@ -1,4 +1,4 @@
-/* No Arguments Passed But Returns a Value */
+// No Arguments Passed But Returns a Value 
 #include <stdio.h>
 int getInteger();
 
