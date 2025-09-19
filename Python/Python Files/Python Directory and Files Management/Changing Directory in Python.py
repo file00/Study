@@ -7,4 +7,4 @@ os.chdir('C:\\Python33')
 
 print(os.getcwd())
 
-Output: C:\Python33
+# Output: C:\Python33
