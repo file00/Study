@@ -2,7 +2,7 @@
 import os
 
 print(os.getcwd())
-C:\Python33
+"C:\Python33"
 
 # list all sub-directories
 os.listdir()
@@ -26,4 +26,5 @@ os.listdir('G:\\')
 'Music',
 'Photos',
 'Series',
+
 'System Volume Information']
