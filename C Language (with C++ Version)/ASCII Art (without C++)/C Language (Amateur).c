@@ -1,4 +1,4 @@
-// "C Language" ASCII Art in C
+// "C Language" (ASCII Art)
 
 #include <stdio.h>
 
@@ -10,3 +10,4 @@ int main() {
     printf("   CCCCC       LLLLLLL    A     A    N   N   GGGG    UUU   A     A   GGGG  EEEEE  \n");
     return 0;
 }
+
