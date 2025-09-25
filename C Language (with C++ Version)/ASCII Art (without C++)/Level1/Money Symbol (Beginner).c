@@ -1,4 +1,4 @@
-// Money Symbol (Beginner)
+// Money Symbol (ASCII Art)
 #include <stdio.h>
 
 int main() {
