@@ -1,4 +1,4 @@
-// Owl Face (Amateur)
+// Owl Face (ASCII Art)
 #include <stdio.h>
 
 int main() {
