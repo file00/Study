@@ -1,5 +1,4 @@
 # Python Library Function
-
 import math
 
 # sqrt computes the square root
