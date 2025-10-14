@@ -13,6 +13,4 @@ def add():
 
     print(c)
 
-add()
-
-# Output: 3 
+add()      # Output: 3 
