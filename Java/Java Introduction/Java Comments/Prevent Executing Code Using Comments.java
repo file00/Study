@@ -5,6 +5,5 @@ public class Main {
         System.out.println("some code");
         System.out.println("error code");
         System.out.println("some other code");
-
     }
 }
