@@ -10,4 +10,3 @@ int main() {
     printf("   CCCCC       LLLLLLL    A     A    N   N   GGGG    UUU   A     A   GGGG  EEEEE  \n");
     return 0;
 }
-
