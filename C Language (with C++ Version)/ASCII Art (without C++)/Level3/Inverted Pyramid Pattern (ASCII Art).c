@@ -1,5 +1,5 @@
 // Inverted Pyramid Pattern (ASCII Art)
-// Difficulty Level 2: Reverse alignment and repetition
+// Difficulty Level 3: Reverse alignment and repetition
 
 #include <stdio.h>
 
