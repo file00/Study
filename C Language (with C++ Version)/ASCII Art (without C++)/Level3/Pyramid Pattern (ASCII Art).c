@@ -1,5 +1,5 @@
 // Pyramid Pattern (ASCII Art)
-// Difficulty Level 2: Focused on simple repetition and alignment
+// Difficulty Level 3: Focused on simple repetition and alignment
 
 #include <stdio.h>
 
