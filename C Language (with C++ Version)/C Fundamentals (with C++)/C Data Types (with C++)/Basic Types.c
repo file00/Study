@@ -1,6 +1,7 @@
 // Basic Types 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>      
+
 int main() {
     int i;
     float f;
@@ -19,5 +20,6 @@ int main() {
     printf("size of long = %ld bytes\n", sizeof(b));
     printf("size of long long = %ld bytes\n", sizeof(c));
     printf("size of long double = %ld bytes\n", sizeof(d));
+    
   return 0;
 }
