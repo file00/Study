@@ -9,6 +9,4 @@ except ZeroDivisionError:
     print("Denominator cannot be 0.")
     
 except IndexError:
-    print("Index Out of Bound.")
-
-# Output: Index Out of Bound
+    print("Index Out of Bound.")      # Output: Index Out of Bound
