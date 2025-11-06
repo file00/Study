@@ -7,7 +7,6 @@ int main() {
    printf("Enter a string: ");
    fgets(line, sizeof(line), stdin); // take input
 
-
    for (int i = 0, j; line[i] != '\0'; ++i) {
 
       // enter the loop if the character is not an alphabet
@@ -24,5 +23,6 @@ int main() {
    }
    printf("Output String: ");
    puts(line);
+   
    return 0;
 }
