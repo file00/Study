@@ -4,5 +4,4 @@
 name = "John"
 
 # print name
-
-print(name)      # John
+print(name)      
