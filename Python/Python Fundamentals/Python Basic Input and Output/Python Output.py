@@ -1,3 +1,3 @@
 # Python Output
 
-print('Python is powerful')      # Output: Python is powerful
+print('Python is powerful')      
