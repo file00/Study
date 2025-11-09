@@ -1,11 +1,11 @@
 # Logical Operators
 
 # logical AND
-print(True and True)     # True
-print(True and False)    # False
+print(True and True)     
+print(True and False)    
 
 # logical OR
-print(True or False)     # True
+print(True or False)     
 
 # logical NOT
-print(not True)          # False
+print(not True)          
