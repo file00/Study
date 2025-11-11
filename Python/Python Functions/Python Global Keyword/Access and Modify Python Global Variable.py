@@ -5,7 +5,7 @@ c = 1 # global variable
 def add():
     print(c)
 
-add()      # Output: 1
+add()   
 
 # global variable (Error!!)
 # c = 1 
