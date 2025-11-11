@@ -3,4 +3,5 @@
 # assign value to site_name variable
 site_name = 'Github.com'
 
-print(site_name)      # Output: programiz.pro
+print(site_name)    
+
