@@ -7,5 +7,5 @@ country_capitals = {
 }
 
 # access the value of keys
-print(country_capitals["Germany"])      # Output: Berlin
-print(country_capitals["England"])      # Output: London
+print(country_capitals["Germany"])      
+print(country_capitals["England"])      
