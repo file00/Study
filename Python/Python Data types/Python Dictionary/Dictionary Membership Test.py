@@ -7,7 +7,8 @@ file_types = {
 }
 
 # use of in and not in operators
-print(".pdf" in file_types)      # Output: True
-print(".mp3" in file_types)      # Output: False
+print(".pdf" in file_types)    
+print(".mp3" in file_types)     
 
-print(".mp3" not in file_types)      # Output: True
+print(".mp3" not in file_types)      
+
