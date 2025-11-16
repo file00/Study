@@ -7,5 +7,3 @@ tech_companies = ['apple', 'google', 'apple']
 companies.update(tech_companies)
 
 print(companies)
-
-# Output: {'google', 'apple', 'Lacoste', 'Ralph Lauren'}
