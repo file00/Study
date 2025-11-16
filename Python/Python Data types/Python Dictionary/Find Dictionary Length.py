@@ -13,6 +13,4 @@ print(len(numbers))
 countries = {}
 
 # get dictionary's length
-
 print(len(countries))     
-
