@@ -2,6 +2,4 @@
 greet = 'Hello'
 
 # count length of greet string
-print(len(greet))
-
-# Output: 5
+print(len(greet))    # Output: 5
