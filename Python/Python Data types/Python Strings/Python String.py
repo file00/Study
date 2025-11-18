@@ -1,7 +1,6 @@
 # Python String
 
 # create string type variables
-
 name = "Python"
 print(name)
 
