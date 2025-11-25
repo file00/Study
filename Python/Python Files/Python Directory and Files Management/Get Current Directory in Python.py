@@ -2,6 +2,4 @@
 
 import os
 
-print(os.getcwd())
-
-# Output: C:\Program Files\PyScripter
+print(os.getcwd())   # Output: C:\Program Files\PyScripter
