@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!"); // print Hello World to the screen
+    printf("Hello, World!");   // print Hello World to the screen
 
     // Here, printf statement prints the text Hello, World! to the screen.
     // Remember these important things about printf:
