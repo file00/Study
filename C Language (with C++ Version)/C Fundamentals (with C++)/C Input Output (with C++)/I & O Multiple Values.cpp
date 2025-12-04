@@ -1,6 +1,6 @@
 // I/O Multiple Values 
 #include <iostream>
-#include <iomanip>  // for setprecision 
+#include <iomanip>   // for setprecision 
 using namespace std;
 
 int main()
@@ -15,4 +15,5 @@ int main()
 
     cout << "You entered " << a << " and " << fixed << setprecision(6) << b;
     return 0;
+
 }
