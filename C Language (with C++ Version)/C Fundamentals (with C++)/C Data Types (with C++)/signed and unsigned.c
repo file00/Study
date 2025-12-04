@@ -1,13 +1,12 @@
 // signed and unsigned
-
 #include <stdio.h>
 
 int main() {
     
     // valid codes
     unsigned int x = 35;
-    int y = -35;      // signed int
-    int z = 36;      // signed int
+    int y = -35;   // signed int
+    int z = 36;   // signed int
 
     printf("x (unsigned int) = %u\n", x);
     printf("y (signed int) = %d\n", y);
