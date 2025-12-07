@@ -8,5 +8,6 @@ int main()
 
     printf("number1 = %f\n", number1);
     printf("number2 = %lf", number2);
+    
     return 0;
 }
