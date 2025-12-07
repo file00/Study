@@ -2,6 +2,7 @@
 // Working of arithmetic operators
 #include <stdio.h>
 int main() {
+    
     int a = 9, b = 4, c;
     
     c = a+b;
@@ -17,3 +18,4 @@ int main() {
     
     return 0;
 }
+
