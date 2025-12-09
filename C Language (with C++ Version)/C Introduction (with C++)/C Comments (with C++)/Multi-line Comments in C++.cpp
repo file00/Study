@@ -4,8 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     
     // create integer variable    
     int age = 25; 
