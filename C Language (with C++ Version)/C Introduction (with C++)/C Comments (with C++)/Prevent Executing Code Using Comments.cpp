@@ -2,8 +2,8 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int number1 = 10;
     int number2 = 15;
     
