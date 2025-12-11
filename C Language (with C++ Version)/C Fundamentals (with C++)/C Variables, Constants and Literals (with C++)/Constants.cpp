@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+    
     const double PI = 3.14;
 
     cout << fixed << setprecision(6) << PI << endl;   // 3.140000
@@ -11,4 +12,3 @@ int main() {
 
     return 0;
 }
-
