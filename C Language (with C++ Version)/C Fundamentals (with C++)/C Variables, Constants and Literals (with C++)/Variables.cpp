@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    
     int age = 25;
     char ch = 'a';
     
@@ -13,5 +14,4 @@ int main() {
     cout << ch;
 
     return 0;
-
 }
