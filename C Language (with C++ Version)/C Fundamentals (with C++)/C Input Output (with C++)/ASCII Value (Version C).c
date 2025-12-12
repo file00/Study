@@ -1,7 +1,10 @@
 // ASCII Value 
 #include <stdio.h>
+
 int main() {
+    
     char chr;
+    
     printf("Enter a character: ");
     scanf("%c", &chr);     
 
@@ -10,5 +13,6 @@ int main() {
 
     // When %d is used, ASCII value is displayed
     printf("ASCII value is %d.", chr);  
+    
     return 0;
 }
