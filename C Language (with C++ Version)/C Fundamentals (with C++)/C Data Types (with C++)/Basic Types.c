@@ -3,6 +3,7 @@
 #include <stdio.h>      
 
 int main() {
+    
     int i;
     float f;
     double db;
@@ -23,3 +24,4 @@ int main() {
     
   return 0;
 }
+
