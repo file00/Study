@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    
     int i;
     float f;
     double db;
@@ -22,4 +23,5 @@ int main() {
     cout << "size of long double = " << sizeof(d) << " bytes\n";
 
     return 0;
+
 }
