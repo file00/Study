@@ -3,12 +3,12 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main(void)
+int main()
 {
-    char name[50];
+    char greeting[50];
 
-    fgets(name, sizeof(name), stdin);
-    printf("%s", name);
+    fgets(greeting, sizeof(greeting), stdin);
+    printf("%s", greeting);
 
     return 0;
 }
