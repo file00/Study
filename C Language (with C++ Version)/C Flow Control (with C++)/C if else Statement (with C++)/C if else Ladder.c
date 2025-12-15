@@ -3,7 +3,9 @@
 
 #include <stdio.h>
 int main() {
+    
     int number1, number2;
+    
     printf("Enter two integers: ");
     scanf("%d %d", &number1, &number2);
 
@@ -24,3 +26,4 @@ int main() {
 
     return 0;
 }
+
