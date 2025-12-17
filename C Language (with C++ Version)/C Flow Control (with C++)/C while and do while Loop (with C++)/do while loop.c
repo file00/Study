@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 int main() {
+  
   double number, sum = 0;
 
   // the body of the loop is executed at least once
