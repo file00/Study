@@ -2,9 +2,10 @@
 #include <stdio.h>
 
 int main() {
+    
     int i = 0;
 
-start:  // label
+start:   // label
     printf("i = %d\n", i);
     i++;
 
