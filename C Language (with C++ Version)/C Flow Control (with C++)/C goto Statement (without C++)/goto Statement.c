@@ -5,6 +5,7 @@
 #include <stdio.h>
 
 int main() {
+   
    const int maxInput = 100;
    int i;
    double number, average, sum = 0.0;
