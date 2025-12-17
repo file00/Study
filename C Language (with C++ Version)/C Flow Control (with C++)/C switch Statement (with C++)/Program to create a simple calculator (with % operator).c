@@ -2,11 +2,12 @@
 #include <stdio.h>
 
 int main() {
+    
     char operation;
     double n1, n2;
 
     printf("Enter an operator (+, -, *, /, %%): ");
-    scanf(" %c", &operation);  // Add space before %c -> to remove leftover newline in buffer
+    scanf(" %c", &operation);   // Add space before %c -> to remove leftover newline in buffer
     printf("Enter two operands: ");
     scanf("%lf %lf", &n1, &n2);
 
@@ -42,6 +43,6 @@ int main() {
         default:
             printf("Error! Operator is not correct");
     }
-
+    
     return 0;
 }
