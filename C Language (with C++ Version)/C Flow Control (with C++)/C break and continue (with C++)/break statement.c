@@ -5,6 +5,7 @@
 #include <stdio.h>
 
 int main() {
+   
    int i;
    double number, sum = 0.0;
 
