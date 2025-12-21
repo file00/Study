@@ -12,5 +12,6 @@ int main() {
 
     // When %d is used, ASCII value is displayed
     cout << "ASCII value is " << static_cast<int>(chr) << ".";
+    
     return 0;
 }
