@@ -3,7 +3,9 @@
 using namespace std;
 
 int main() {
+    
     char chr;
+    
     cout << "Enter a character: ";
     cin >> chr;
 
@@ -15,3 +17,4 @@ int main() {
     
     return 0;
 }
+
