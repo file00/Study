@@ -11,5 +11,6 @@ int main() {
 
     printf("You entered %c.\n", chr);
     printf("ASCII value is %d.", chr);
+    
     return 0;
 }
