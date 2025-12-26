@@ -8,6 +8,7 @@ int main() {
     
     cout << "Enter an integer: ";
     cin >> testInteger;
+    
     cout << "Number = " << testInteger;
     
     return 0;
