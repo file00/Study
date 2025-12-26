@@ -14,6 +14,6 @@ int main()
     cin >> a >> b;
 
     cout << "You entered " << a << " and " << fixed << setprecision(6) << b;
+    
     return 0;
 }
-
