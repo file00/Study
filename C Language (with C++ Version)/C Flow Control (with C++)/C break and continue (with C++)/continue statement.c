@@ -16,10 +16,11 @@ int main() {
          continue;
       }
 
-      sum += number; // sum = sum + number;
+      sum += number;   // sum = sum + number;
    }
 
    printf("Sum = %.2lf", sum);
 
    return 0;
 }
+
