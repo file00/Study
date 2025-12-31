@@ -10,6 +10,7 @@ int main() {
 
 // return type is void meaning doesn't return any value
 void checkPrimeNumber() {
+  
   int n, i, flag = 0;
 
   printf("Enter a positive integer: ");
@@ -31,3 +32,4 @@ void checkPrimeNumber() {
   else
     printf("%d is a prime number.", n);
 }
+
