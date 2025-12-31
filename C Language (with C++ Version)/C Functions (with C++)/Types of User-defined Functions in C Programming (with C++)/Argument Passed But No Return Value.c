@@ -17,6 +17,7 @@ int main() {
 
 // return type is void meaning doesn't return any value
 void checkPrimeAndDisplay(int n) {
+  
   int i, flag = 0;
 
   // 0 and 1 are not prime numbers    
@@ -35,3 +36,4 @@ void checkPrimeAndDisplay(int n) {
   else
     printf("%d is a prime number.", n);
 }
+
