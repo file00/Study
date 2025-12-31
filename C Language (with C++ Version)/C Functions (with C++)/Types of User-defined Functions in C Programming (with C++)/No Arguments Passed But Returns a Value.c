@@ -30,6 +30,7 @@ int main() {
 
 // returns integer entered by the user
 int getInteger() {
+  
   int n;
 
   printf("Enter a positive integer: ");
@@ -37,3 +38,4 @@ int getInteger() {
 
   return n;
 }
+
