@@ -10,5 +10,6 @@ int main(void) {
   
  // Error: i is not declared at this point
   printf("%d", i);  
+  
   return 0;
 }
