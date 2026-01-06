@@ -1,5 +1,4 @@
 // C typedef 
-
 #include <stdio.h>
 #include <string.h>
 
