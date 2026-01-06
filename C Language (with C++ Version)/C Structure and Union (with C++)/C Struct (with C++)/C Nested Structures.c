@@ -1,5 +1,4 @@
 // C Nested Structures 
-
 #include <stdio.h>
 
 struct complex {
