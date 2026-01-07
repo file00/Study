@@ -21,7 +21,7 @@ int main() {
    printf("Enter age: ");
    scanf("%d", &s1.age);
 
-   display(s1); // passing struct as an argument
+   display(s1);   // passing struct as an argument
 
    return 0;
 }
@@ -30,5 +30,4 @@ void display(struct student s) {
    printf("\nDisplaying information\n");
    printf("Name: %s", s.name);
    printf("\nAge: %d", s.age);
-
 }
