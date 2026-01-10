@@ -1,8 +1,7 @@
 // Increment and Decrement Operators 
 // Working of increment and decrement operators
 #include <stdio.h>
-int main()
-{
+int main() {
     
     int a = 10, b = 100;
     float c = 10.5, d = 100.5;
