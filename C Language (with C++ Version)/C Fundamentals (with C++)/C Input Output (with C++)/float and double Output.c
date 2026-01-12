@@ -1,6 +1,6 @@
 // float and double Output
-
 #include <stdio.h>
+
 int main()
 {
     float number1 = 13.5;
