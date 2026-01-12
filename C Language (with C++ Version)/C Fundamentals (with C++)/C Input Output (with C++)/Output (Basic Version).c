@@ -1,5 +1,4 @@
 // Output (Basic Version)
-
 #include <stdio.h>
 
 int main()
