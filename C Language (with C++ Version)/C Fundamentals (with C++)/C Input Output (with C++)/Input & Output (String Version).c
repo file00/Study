@@ -1,5 +1,4 @@
 // Input & Output (String Version)
-
 #include <stdio.h>
 
 int main() {
