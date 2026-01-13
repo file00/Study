@@ -1,5 +1,4 @@
 // Input & Output (ASCII Code Version)
-
 #include <stdio.h>
 
 int main() {
