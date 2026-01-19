@@ -18,6 +18,7 @@ int main() {
 
     printf("Character : ");
     scanf(" %c", &ch);
+    
     printf("%c", ch);
 
     return 0;
