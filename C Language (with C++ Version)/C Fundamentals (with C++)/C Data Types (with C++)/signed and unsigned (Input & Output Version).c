@@ -2,8 +2,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main() 
-{
+int main() {
+    
     unsigned int x;
     int y;
     int z;
