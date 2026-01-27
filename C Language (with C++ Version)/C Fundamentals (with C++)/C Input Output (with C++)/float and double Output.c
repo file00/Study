@@ -1,8 +1,8 @@
 // float and double Output
 #include <stdio.h>
 
-int main()
-{
+int main() {
+    
     float number1 = 13.5;
     double number2 = 12.4;
 
