@@ -1,8 +1,8 @@
 // Int Output (Basic Version)
 #include <stdio.h>
 
-int main()
-{
+int main() {
+    
     int sum;
     
     // Output 1
