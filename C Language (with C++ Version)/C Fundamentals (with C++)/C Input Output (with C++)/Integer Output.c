@@ -1,7 +1,8 @@
 // Integer Output 
 #include <stdio.h>
-int main()
-{
+
+int main() {
+    
     int testInteger = 5;
     
     printf("Number = %d", testInteger);
