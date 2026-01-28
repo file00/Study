@@ -1,8 +1,8 @@
 // Output (Basic Version)
 #include <stdio.h>
 
-int main()
-{
+int main() {
+    
     printf("|%d|\n", 456);
     printf("|%4d|\n", 456);
     printf("|%-4d|\n", 456);
