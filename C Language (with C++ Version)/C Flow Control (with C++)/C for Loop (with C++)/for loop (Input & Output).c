@@ -1,10 +1,10 @@
 // for loop 
 // Program to calculate the sum of first n natural numbers
 // Positive integers 1,2,3...n are known as natural numbers
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-int main()
-{
+
+int main() {
     
     int num, count, sum = 0;
 
@@ -21,4 +21,3 @@ int main()
 
     return 0;
 }
-
