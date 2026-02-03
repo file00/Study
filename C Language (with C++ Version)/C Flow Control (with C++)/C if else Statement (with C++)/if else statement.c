@@ -1,7 +1,8 @@
 // if...else statement 
 // Check whether an integer is odd or even
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
 int main() {
     
     int number;
@@ -19,4 +20,3 @@ int main() {
 
     return 0;
 }
-
