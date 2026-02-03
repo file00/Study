@@ -1,7 +1,8 @@
 // if statement 
 // Program to display a number if it is negative
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
 int main() {
     
     int number;
@@ -18,4 +19,3 @@ int main() {
 
     return 0;
 }
-
