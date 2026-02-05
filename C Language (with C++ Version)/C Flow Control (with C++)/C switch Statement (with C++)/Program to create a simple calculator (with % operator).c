@@ -1,4 +1,5 @@
 // Program to create a simple calculator (with % operator)
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
