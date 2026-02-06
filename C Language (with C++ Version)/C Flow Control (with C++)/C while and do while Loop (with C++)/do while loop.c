@@ -1,7 +1,8 @@
 // do...while loop 
 // Program to add numbers until the user enters zero
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
 int main() {
   
   double number, sum = 0;
