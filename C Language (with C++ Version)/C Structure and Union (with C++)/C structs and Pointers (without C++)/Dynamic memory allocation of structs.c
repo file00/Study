@@ -1,15 +1,16 @@
 // Dynamic memory allocation of structs 
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
+
 struct person {
    int age;
    float weight;
    char name[30];
 };
 
-int main()
-{
+int main() {
+   
    struct person *ptr;
    int i, n;
 
@@ -36,5 +37,4 @@ int main()
        printf("Name: %s\tAge: %d\n", (ptr+i)->name, (ptr+i)->age);
 
    return 0;
-
 }
