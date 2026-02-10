@@ -1,14 +1,15 @@
 // Access members using Pointer 
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
 struct person
 {
    int age;
    float weight;
 };
 
-int main()
-{
+int main() {
+   
     struct person *personPtr, person1;
     personPtr = &person1;   
 
