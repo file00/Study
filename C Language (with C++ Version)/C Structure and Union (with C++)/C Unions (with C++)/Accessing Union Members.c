@@ -1,12 +1,14 @@
 // Accessing Union Members 
 
 #include <stdio.h>
+
 union Job {
    float salary;
    int workerNo;
 } j;
 
 int main() {
+   
    j.salary = 12.3;
 
    // when j.workerNo is assigned a value,
