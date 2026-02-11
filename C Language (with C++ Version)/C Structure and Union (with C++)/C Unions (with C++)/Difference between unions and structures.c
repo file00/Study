@@ -1,6 +1,7 @@
 // Difference between unions and structures 
 
 #include <stdio.h>
+
 union unionJob
 {
    //defining a union
@@ -16,8 +17,8 @@ struct structJob
    int workerNo;
 } sJob;
 
-int main()
-{
+int main() {
+   
    printf("size of union = %d bytes", sizeof(uJob));
    printf("\nsize of structure = %d bytes", sizeof(sJob));
    return 0;
