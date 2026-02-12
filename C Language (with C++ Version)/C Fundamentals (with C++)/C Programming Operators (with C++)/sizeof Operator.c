@@ -1,8 +1,8 @@
 // sizeof Operator 
 #include <stdio.h>
 
-int main()
-{
+int main() {
+    
     int a;
     float b;
     double c;
