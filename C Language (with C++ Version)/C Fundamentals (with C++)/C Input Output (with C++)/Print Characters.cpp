@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    
     char chr = 'a';
     
     cout << "character = " << chr;
