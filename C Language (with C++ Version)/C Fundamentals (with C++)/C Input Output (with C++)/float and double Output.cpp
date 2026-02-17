@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+    
     float number1 = 13.5f;
     double number2 = 12.4;
 
