@@ -1,8 +1,11 @@
 // Program to Swap Elements Using Call by Reference
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
 void cyclicSwap(int *a, int *b, int *c);
+
 int main() {
+ 
     int a, b, c;
 
     printf("Enter a, b and c respectively: ");
