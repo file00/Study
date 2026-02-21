@@ -1,8 +1,9 @@
 // Store Numbers and Calculate Average Using Arrays
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
 int main() {
+
     int n, i;
     float num[100], sum = 0.0, avg;
 
@@ -23,5 +24,6 @@ int main() {
 
     avg = sum / n;
     printf("Average = %.2f", avg);
+    
     return 0;
 }
