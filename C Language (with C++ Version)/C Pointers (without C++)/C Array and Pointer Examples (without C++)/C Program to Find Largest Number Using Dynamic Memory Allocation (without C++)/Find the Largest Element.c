@@ -1,5 +1,5 @@
 // Find the Largest Element
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -7,6 +7,7 @@ int main() {
 
   int n;
   double *data;
+  
   printf("Enter the total number of elements: ");
   scanf("%d", &n);
 
@@ -29,6 +30,7 @@ int main() {
       *data = *(data + i);
     }
   }
+  
   printf("Largest number = %.2lf", *data);
 
   free(data);
