@@ -1,10 +1,11 @@
 // Program to Find the Transpose of a Matrix
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
+  
   int a[10][10], transpose[10][10], r, c;
+  
   printf("Enter rows and columns: ");
   scanf("%d %d", &r, &c);
 
@@ -39,5 +40,6 @@ int main() {
     if (j == r - 1)
     printf("\n");
   }
+  
   return 0;
 }
