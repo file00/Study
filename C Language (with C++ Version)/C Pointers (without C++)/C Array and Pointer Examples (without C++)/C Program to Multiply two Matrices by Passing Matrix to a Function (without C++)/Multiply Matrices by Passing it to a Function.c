@@ -1,5 +1,4 @@
 // Multiply Matrices by Passing it to a Function
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
@@ -7,8 +6,8 @@ void enterData(int firstMatrix[][10], int secondMatrix[][10], int rowFirst, int 
 void multiplyMatrices(int firstMatrix[][10], int secondMatrix[][10], int multResult[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond);
 void display(int mult[][10], int rowFirst, int columnSecond);
 
-int main()
-{
+int main() {
+	
 	int firstMatrix[10][10], secondMatrix[10][10], mult[10][10], rowFirst, columnFirst, rowSecond, columnSecond, i, j, k;
 
 	printf("Enter rows and column for first matrix: ");
@@ -39,10 +38,12 @@ int main()
 	return 0;
 }
 
-void enterData(int firstMatrix[][10], int secondMatrix[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond)
-{
+void enterData(int firstMatrix[][10], int secondMatrix[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond) {
+	
 	int i, j;
+	
 	printf("\nEnter elements of matrix 1:\n");
+	
 	for(i = 0; i < rowFirst; ++i)
 	{
 		for(j = 0; j < columnFirst; ++j)
@@ -63,8 +64,8 @@ void enterData(int firstMatrix[][10], int secondMatrix[][10], int rowFirst, int 
 	}
 }
 
-void multiplyMatrices(int firstMatrix[][10], int secondMatrix[][10], int mult[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond)
-{
+void multiplyMatrices(int firstMatrix[][10], int secondMatrix[][10], int mult[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond) {
+	
 	int i, j, k;
 
 	// Initializing elements of matrix mult to 0.
@@ -89,10 +90,12 @@ void multiplyMatrices(int firstMatrix[][10], int secondMatrix[][10], int mult[][
 	}
 }
 
-void display(int mult[][10], int rowFirst, int columnSecond)
-{
+void display(int mult[][10], int rowFirst, int columnSecond) {
+	
 	int i, j;
+	
 	printf("\nOutput Matrix:\n");
+	
 	for(i = 0; i < rowFirst; ++i)
 	{
 		for(j = 0; j < columnSecond; ++j)
