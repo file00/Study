@@ -1,10 +1,11 @@
 // malloc() and free() 
 // Program to calculate the sum of n numbers entered by the user
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 
 int main() {
+  
   int n, i, *ptr, sum = 0;
 
   printf("Enter number of elements: ");
