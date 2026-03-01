@@ -1,17 +1,17 @@
 // Passing Pointers to Functions 
-
 #include <stdio.h>
 
 void addOne(int* ptr) {
-  (*ptr)++; // adding 1 to *ptr
+  (*ptr)++;   // adding 1 to *ptr
 }
 
-int main()
-{
+int main() {
+  
   int* p, i = 10;
   p = &i;
   addOne(p);
 
-  printf("%d", *p); // 11
+  printf("%d", *p);   // 11
+  
   return 0;
 }
