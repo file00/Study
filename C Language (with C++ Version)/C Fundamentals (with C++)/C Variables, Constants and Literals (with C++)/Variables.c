@@ -1,4 +1,5 @@
 // Variables 
+
 #include <stdio.h>
 
 int main() {
