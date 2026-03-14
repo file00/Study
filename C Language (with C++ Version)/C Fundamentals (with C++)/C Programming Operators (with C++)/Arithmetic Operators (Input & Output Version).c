@@ -1,5 +1,6 @@
 // Arithmetic Operators (Input & Output Version)
 // Working of arithmetic operators 
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
@@ -19,7 +20,7 @@ int main() {
     c = a * b;
     printf("a * b = %d\n", c);
 
-    c = a / b;   // 정수 나눗셈
+    c = a / b;   
     printf("a / b = %d\n", c);
 
     c = a % b;
