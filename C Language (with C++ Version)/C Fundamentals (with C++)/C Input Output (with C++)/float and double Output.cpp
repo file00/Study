@@ -1,4 +1,5 @@
 // float and double Output
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
