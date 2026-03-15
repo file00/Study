@@ -1,4 +1,5 @@
 // float and double Output
+
 #include <stdio.h>
 
 int main() {
