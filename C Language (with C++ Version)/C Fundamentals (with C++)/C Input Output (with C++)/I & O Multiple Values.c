@@ -1,4 +1,5 @@
 // I/O Multiple Values 
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
