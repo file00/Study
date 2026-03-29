@@ -1,5 +1,6 @@
 // ASCII Code (Version.C)
 // This program reads a character and prints its ASCII value
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
