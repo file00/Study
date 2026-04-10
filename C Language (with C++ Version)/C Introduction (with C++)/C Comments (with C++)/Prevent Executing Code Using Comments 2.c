@@ -15,6 +15,7 @@ int main() {
 
     // This section is active and will execute.
     int product = number1 * number2;
+    
     printf("The product is: %d\n", product); 
     
     return 0;
