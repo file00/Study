@@ -1,6 +1,7 @@
 // Single-line Comment
 
 class Main {
+    
     public static void main(String[] args) {
         
         // declare and initialize two variables
