@@ -1,6 +1,7 @@
 // Boolean Literals
 
 class Main {
+  
   public static void main(String[] args) {
     	
     boolean flag1 = false;
