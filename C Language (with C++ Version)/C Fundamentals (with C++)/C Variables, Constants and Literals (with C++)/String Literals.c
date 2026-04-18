@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int main() {
+    
     // Display "good"
     printf("\"good\"                  //string constant\n");
 
