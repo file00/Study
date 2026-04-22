@@ -1,6 +1,7 @@
 // Java char data type 2
 
 class Main {
+  
   public static void main(String[] args) {
     	
     char letter1 = '9';
@@ -8,7 +9,6 @@ class Main {
     	
     char letter2 = 65;
     System.out.println(letter2);  // prints A
-
   }
 }
 
