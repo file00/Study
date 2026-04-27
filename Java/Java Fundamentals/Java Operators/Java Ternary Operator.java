@@ -1,6 +1,7 @@
 // Java Ternary Operator
 
 class Java {
+  
   public static void main(String[] args) {
 
     int februaryDays = 29;
@@ -8,6 +9,7 @@ class Java {
 
     // ternary operator
     result = (februaryDays == 28) ? "Not a leap year" : "Leap year";
+    
     System.out.println(result);
   }
 }
