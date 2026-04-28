@@ -1,4 +1,4 @@
-// Output (Basic Version)
+// Output (Formatting Examples Version)
 
 #include <stdio.h>
 
