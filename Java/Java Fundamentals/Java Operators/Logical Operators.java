@@ -1,6 +1,7 @@
 // Logical Operators
 
 class Main {
+  
   public static void main(String[] args) {
 
     // && operator
