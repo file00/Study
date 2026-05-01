@@ -1,6 +1,6 @@
 // Java Ternary Operator
 
-class Java {
+public class Main {
   
   public static void main(String[] args) {
 
