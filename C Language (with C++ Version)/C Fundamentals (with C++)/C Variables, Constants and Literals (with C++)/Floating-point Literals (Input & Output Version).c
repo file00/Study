@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int main() {
+    
     double f1, f2, f3;
 
     // 1. Get user input for three double precision floating-point numbers
