@@ -1,6 +1,6 @@
 // print() and println()
 
-class Output {
+class Main {
     
     public static void main(String[] args) {
     	
