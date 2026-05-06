@@ -1,6 +1,6 @@
 // Printing Variables and Literals
 
-class Variables {
+public class Main {
     
     public static void main(String[] args) {
     	
