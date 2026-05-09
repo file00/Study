@@ -1,5 +1,5 @@
 // Print Concatenated Strings
-class PrintVariables {
+class Main {
     
     public static void main(String[] args) {
     	
