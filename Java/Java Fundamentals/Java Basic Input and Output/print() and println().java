@@ -1,6 +1,6 @@
 // print() and println()
 
-class Main {
+public lass Main {
     
     public static void main(String[] args) {
     	
