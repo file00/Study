@@ -1,6 +1,6 @@
 // Java char data type 2
 
-class Main {
+public class Main {
   
   public static void main(String[] args) {
     	
