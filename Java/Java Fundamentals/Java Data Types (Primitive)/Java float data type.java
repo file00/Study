@@ -1,6 +1,6 @@
 // Java float data type
 
-class Main {
+public class Main {
   
   public static void main(String[] args) {
     	
