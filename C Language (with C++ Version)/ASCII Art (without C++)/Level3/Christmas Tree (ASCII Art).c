@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 int main() {
+    
     int height = 6; // Height of the tree
 
     // Tree part
