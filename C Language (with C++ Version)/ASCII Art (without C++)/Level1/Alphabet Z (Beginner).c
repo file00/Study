@@ -1,4 +1,5 @@
 // Alphabet Z (ASCII Art)
+
 #include <stdio.h>
 
 int main() {
@@ -9,5 +10,6 @@ int main() {
     printf("     Z       \n");
     printf("   Z         \n");
     printf("   ZZZZZZZ   \n");
+    
     return 0;
 }
