@@ -17,5 +17,6 @@ int main() {
 
    printf("Salary = %.1f\n", j.salary);
    printf("Number of workers = %d", j.workerNo);
+   
    return 0;
 }
