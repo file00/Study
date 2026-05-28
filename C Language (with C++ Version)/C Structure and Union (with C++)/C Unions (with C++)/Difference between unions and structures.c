@@ -21,5 +21,6 @@ int main() {
    
    printf("size of union = %d bytes", sizeof(uJob));
    printf("\nsize of structure = %d bytes", sizeof(sJob));
+   
    return 0;
 }
