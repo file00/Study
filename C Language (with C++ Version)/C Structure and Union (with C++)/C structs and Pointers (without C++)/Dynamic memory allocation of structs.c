@@ -20,8 +20,7 @@ int main() {
    // allocating memory for n numbers of struct person
    ptr = (struct person*) malloc(n * sizeof(struct person));
 
-   for(i = 0; i < n; ++i)
-   {
+   for(i = 0; i < n; ++i) {
        printf("Enter first name and age respectively: ");
 
        // To access members of 1st struct person,
@@ -33,6 +32,7 @@ int main() {
    }
 
    printf("Displaying Information:\n");
+   
    for(i = 0; i < n; ++i)
        printf("Name: %s\tAge: %d\n", (ptr+i)->name, (ptr+i)->age);
 
