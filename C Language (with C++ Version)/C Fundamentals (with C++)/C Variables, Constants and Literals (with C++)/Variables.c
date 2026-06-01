@@ -11,7 +11,6 @@ int main() {
     printf("%d\n", age);
     
     ch = 'l';
-    
     printf("%c",ch);
 
     return 0;
