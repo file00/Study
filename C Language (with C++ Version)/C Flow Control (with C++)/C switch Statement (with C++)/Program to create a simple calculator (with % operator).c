@@ -9,6 +9,7 @@ int main() {
 
     printf("Enter an operator (+, -, *, /, %%): ");
     scanf(" %c", &operation);   // Add space before %c -> to remove leftover newline in buffer
+    
     printf("Enter two operands: ");
     scanf("%lf %lf", &n1, &n2);
 
