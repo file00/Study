@@ -12,9 +12,9 @@ int main() {
 
     // Skip printing the number if it is greater than or equal to 0
     if (number >= 0) {
-        
         // Do nothing for non-negative numbers
-    } else {
+    } 
+    else {
         printf("You entered %d.\n", number);
     }
 
