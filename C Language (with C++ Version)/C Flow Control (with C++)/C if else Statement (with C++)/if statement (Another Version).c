@@ -1,4 +1,4 @@
-// if statement (Input & Output Version)
+// if statement (Another Version)
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
