@@ -4,7 +4,7 @@
  * The program prints "Hello, World!" to the standard output.
  */
 
-class Main {
+public class Main {
     
     public static void main(String[] args) {
 
