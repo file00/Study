@@ -7,13 +7,13 @@ int main() {
     int number1 = 10, number2 = 15;
 
     /* 
-       The following 'sum' block is commented out 
-       to prevent its execution as per the file title.
-    */
+     * TODO: Deprecated sum logic. 
+     * Commented out to meet the new requirement.
+     */
     // int sum = number1 + number2;
     // printf("The sum is: %d\n", sum);
 
-    // This section is active and will execute.
+    // Calculate and display the product as required
     int product = number1 * number2;
     
     printf("The product is: %d\n", product); 
