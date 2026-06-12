@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int main(void) {
+    
     printf("        .--.\n");
     printf("       |o_o |\n");
     printf("       |:_/ |\n");
@@ -15,5 +16,6 @@ int main(void) {
     printf("     \\  \\| |/  /\n");
     printf("      '--' '--'\n");
     printf("      WALRUS\n");
+    
     return 0;
 }
