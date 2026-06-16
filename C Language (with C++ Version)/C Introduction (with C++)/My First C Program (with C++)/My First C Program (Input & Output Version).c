@@ -4,11 +4,24 @@
 
 int main() {
     
+    // Create a storage space (array) that can hold up to 50 characters.
     char greeting[50];
 
-    // fgets safely reads a line of text from the keyboard (stdin), ensuring it does not exceed the 50-byte limit of the greeting array.
+    // Guide the user to type something, so the screen doesn't just stay blank.
+    printf("Type your greeting and press Enter: ");
+
+    /*
+     * [How fgets works]
+     * 1. greeting       -> Where to save the text.
+     * 2. sizeof(greeting) -> Maximum limit (50 bytes) to prevent program crashes.
+     * 3. stdin          -> Tells C to get input from the keyboard.
+     * 
+     * *Note: fgets also saves the 'Enter' key (\n) you pressed!
+     */
     fgets(greeting, sizeof(greeting), stdin);
-    printf("%s", greeting);
+    
+    // %s is used to print a string (text).
+    printf("Your greeting: %s", greeting);
 
     return 0;
 }
