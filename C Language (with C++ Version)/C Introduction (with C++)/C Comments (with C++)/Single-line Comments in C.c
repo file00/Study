@@ -1,4 +1,4 @@
-// Single-line Comments in C 
+// [Title] Single-line Comments in C 
 
 // Note: In C, any text after '//' on the same line is ignored by the compiler.
 // That is why these are called "single-line" or "inline" comments.
