@@ -1,4 +1,4 @@
-// Diamond Lightning (ASCII Art)
+// [Title] Diamond Lightning (ASCII Art)
 
 #include <stdio.h>
 
