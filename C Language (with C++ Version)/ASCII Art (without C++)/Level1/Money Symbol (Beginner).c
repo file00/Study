@@ -1,4 +1,4 @@
-// Money Symbol (ASCII Art)
+// [Title] Money Symbol (ASCII Art)
 
 #include <stdio.h>
 
