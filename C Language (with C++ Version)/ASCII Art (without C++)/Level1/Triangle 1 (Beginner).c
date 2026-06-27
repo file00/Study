@@ -1,4 +1,4 @@
-// Triangle 1 (ASCII Art) 
+// [Title] Triangle 1 (ASCII Art) 
 
 #include <stdio.h>
 
