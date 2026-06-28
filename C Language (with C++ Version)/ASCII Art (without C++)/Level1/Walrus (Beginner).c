@@ -1,4 +1,4 @@
-// Walrus (ASCII Art)
+// [Title] Walrus (ASCII Art)
 
 #include <stdio.h>
 
