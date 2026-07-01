@@ -1,4 +1,4 @@
-// Sine Wave
+// [Title] Sine Wave
 
 #include <stdio.h>
 #include <math.h>
