@@ -5,7 +5,7 @@
 
 int main() {
     
-    int r = 10; // Radius
+    int r = 10;    // Radius
 
     for (int y = -r; y <= r; y++) {
         for (int x = -2 * r; x <= 2 * r; x++) {
