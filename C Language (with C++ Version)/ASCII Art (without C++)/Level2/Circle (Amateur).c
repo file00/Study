@@ -1,9 +1,10 @@
-// Circle (ASCII Art)
+// [Title] Circle (ASCII Art)
 
 #include <stdio.h>
 #include <math.h>
 
 int main() {
+    
     int r = 10; // Radius
 
     for (int y = -r; y <= r; y++) {
