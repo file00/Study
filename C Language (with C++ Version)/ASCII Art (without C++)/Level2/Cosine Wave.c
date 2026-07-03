@@ -1,10 +1,11 @@
-// Cosine Wave
+// [Title] Cosine Wave
 
 #include <stdio.h>
 #include <math.h>
 #include <unistd.h> // For usleep function (Use <windows.h> and Sleep() on Windows)
 
 int main() {
+    
     double x = 0.0;
     
     while(1) {
