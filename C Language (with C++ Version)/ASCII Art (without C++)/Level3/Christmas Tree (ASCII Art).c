@@ -1,4 +1,4 @@
-// Christmas Tree (ASCII Art)
+// [Title] Christmas Tree (ASCII Art)
 // Difficulty Level 3: Includes symmetry, multiple sections, and proportional adjustments
 
 #include <stdio.h>
