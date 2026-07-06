@@ -42,7 +42,8 @@ static int ellipse_half_width(int y, int H, int R){
     return ihw;
 }
 
-int main(void){
+int main() {
+    
     // ===== scale here =====
     int H = 16;                  // body height (try 12 ~ 24)
     // ======================
