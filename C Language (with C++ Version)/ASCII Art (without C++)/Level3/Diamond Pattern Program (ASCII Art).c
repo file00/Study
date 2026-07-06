@@ -1,8 +1,9 @@
-// Diamond Pattern Program (ASCII Art)
+// [Title] Diamond Pattern Program (ASCII Art)
 
 #include <stdio.h>
 
 int main() {
+    
     int i, j;
     int size = 5; // Mid-height of the diamond (you can change this value)
 
