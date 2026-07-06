@@ -1,4 +1,4 @@
-// Halloween Pumpkin (ASCII Art) - Level 3
+// [Title] Halloween Pumpkin (ASCII Art) - Level 3
 // - Symmetry, proportional adjustments, multiple sections, modularized
 // - Adjust 'H' to scale the pumpkin; features scale automatically.
 //   Compile: gcc pumpkin.c -o pumpkin -lm
