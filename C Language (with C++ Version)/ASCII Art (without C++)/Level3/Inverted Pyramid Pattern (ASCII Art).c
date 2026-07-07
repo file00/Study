@@ -1,9 +1,10 @@
-// Inverted Pyramid Pattern (ASCII Art)
+// [Title] Inverted Pyramid Pattern (ASCII Art)
 // Difficulty Level 3: Reverse alignment and repetition
 
 #include <stdio.h>
 
 int main() {
+    
     int rows = 10;
 
     for (int i = rows; i >= 1; i--) {
