@@ -1,9 +1,10 @@
-// Pyramid Pattern (ASCII Art)
+// [Title] Pyramid Pattern (ASCII Art)
 // Difficulty Level 3: Focused on simple repetition and alignment
 
 #include <stdio.h>
 
 int main() {
+    
     int rows = 10;
 
     for (int i = 1; i <= rows; i++) {
