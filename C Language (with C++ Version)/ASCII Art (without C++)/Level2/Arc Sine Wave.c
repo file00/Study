@@ -35,6 +35,5 @@ int main() {
         
         usleep(50000);  // Delay for 0.05 seconds (50,000 microseconds)
     }
-    
     return 0;
 }
