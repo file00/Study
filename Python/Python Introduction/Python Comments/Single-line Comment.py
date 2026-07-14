@@ -1,4 +1,4 @@
-# Single-line Comment
+# [Title] Single-line Comment
 
 # declare a variable
 name = "John"
