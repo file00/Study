@@ -1,7 +1,8 @@
-// Program to Print an Integer
-
+// [Title] Program to Print an Integer
 #include <stdio.h>
-int main() {   
+
+int main() {
+    
     int number;
    
     printf("Enter an integer: ");  
