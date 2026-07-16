@@ -1,8 +1,10 @@
-// Program to Display "Hello, World!"
-
+// [Title] Program to Display "Hello, World!" (without Input)
 #include <stdio.h>
+
 int main() {
+   
    // printf() displays the string inside quotation
    printf("Hello, World!");
+   
    return 0;
 }
