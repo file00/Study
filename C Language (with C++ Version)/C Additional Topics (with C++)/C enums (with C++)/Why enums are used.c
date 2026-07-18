@@ -1,4 +1,4 @@
-// Why enums are used? 
+// [Title] Why enums are used? 
 
 #include <stdio.h>
 
@@ -9,11 +9,11 @@ enum suit {
     spades = 3
 } card;
 
-int main() 
-{
+int main()  {
+	
     card = club;
 	printf("Size of enum variable = %ld bytes", sizeof(card));	
+	
 	return 0;
 }
-
 // Enums make code more readable by replacing magic numbers with meaningful names.
