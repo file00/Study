@@ -1,4 +1,5 @@
-// Dynamic memory allocation of structs 
+// [Title] Dynamic memory allocation of structs 
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
