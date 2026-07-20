@@ -2,8 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-struct person
-{
+struct person {
    int age;
    float weight;
 };
