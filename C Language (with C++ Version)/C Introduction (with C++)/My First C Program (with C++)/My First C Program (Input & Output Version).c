@@ -1,5 +1,4 @@
 // [Title] My First C Program (Input & Output Version)
-
 #include <stdio.h>
 
 int main() {
@@ -18,6 +17,7 @@ int main() {
      * 
      * *Note: fgets also saves the 'Enter' key (\n) you pressed!
      */
+    
     fgets(greeting, sizeof(greeting), stdin);
     
     // %s is used to print a string (text).
