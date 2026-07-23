@@ -1,5 +1,4 @@
 // [Title] My First C Program (with Escape Sequence)
-
 #include <stdio.h>
 
 int main() {
