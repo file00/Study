@@ -1,5 +1,4 @@
 // [Title] Prevent Executing Code Using Comments 2
-
 #include <stdio.h>
 
 int main() {
