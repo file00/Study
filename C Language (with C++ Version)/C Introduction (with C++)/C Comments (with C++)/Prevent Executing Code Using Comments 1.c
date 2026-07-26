@@ -1,5 +1,4 @@
 // [Title] Preventing Code Execution Using Comments and Preprocessors 1
-
 #include <stdio.h>
 
 int main() {
