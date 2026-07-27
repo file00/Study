@@ -1,5 +1,4 @@
-// Characters (Input & Output Version)
-
+// [Title] Characters (Input & Output Version)
 #include <stdio.h>
 
 int main() {
