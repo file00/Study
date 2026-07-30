@@ -1,5 +1,4 @@
-// Literals Integers (Input & Output Version)
-
+// [Title] Literals Integers (Input & Output Version)
 #include <stdio.h>
 
 int main() {
