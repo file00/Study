@@ -1,5 +1,4 @@
-// Floating-point Literals
-
+// [Title] Floating-point Literals
 #include <stdio.h>
 
 int main() {
