@@ -1,7 +1,5 @@
 # [Title] Single-line Comment
 
-# declare a variable
-name = "John"
+name = "John"    # declare a variable
 
-# print name
-print(name)      
+print(name)    # print name      
