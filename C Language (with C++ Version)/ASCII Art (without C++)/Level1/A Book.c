@@ -1,14 +1,13 @@
 // [Title] A Book
-
 #include <stdio.h>
 
 int main() {
     
-    printf("    _______\n");
+    printf("    ________\n");
     printf("   /      /,\n");
     printf("  /      //\n");
-    printf(" /______//\n");
-    printf("(______([\n"); 
+    printf(" /_______//\n");
+    printf("(_______([\n"); 
 
     return 0;
 }
