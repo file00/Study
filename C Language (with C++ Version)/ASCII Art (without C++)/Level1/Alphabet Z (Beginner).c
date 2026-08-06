@@ -6,8 +6,10 @@ int main() {
     printf("   ZZZZZZZZ   \n");
     printf("          Z   \n");
     printf("         Z    \n");
+    printf("        Z     \n");
     printf("       Z      \n");
     printf("      Z       \n");
+    printf("     Z        \n");
     printf("    Z         \n");
     printf("   ZZZZZZZZ   \n");
     
