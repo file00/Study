@@ -1,5 +1,4 @@
 // [Title] Cat Face (ASCII Art)
-
 #include <stdio.h>
 
 int main() {
