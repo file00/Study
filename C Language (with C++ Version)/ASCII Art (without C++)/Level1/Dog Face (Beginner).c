@@ -1,5 +1,4 @@
 // [Title] Dog Face (ASCII Art)
-
 #include <stdio.h>
 
 int main() {
