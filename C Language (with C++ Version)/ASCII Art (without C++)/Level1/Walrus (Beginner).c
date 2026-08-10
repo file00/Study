@@ -1,5 +1,4 @@
 // [Title] Walrus (ASCII Art)
-
 #include <stdio.h>
 
 int main() {
