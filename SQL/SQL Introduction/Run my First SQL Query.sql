@@ -1,5 +1,4 @@
 -- Run my First SQL Query
-
 CREATE DATABASE subjects;
 
 CREATE TABLE subjects.Math (
