@@ -1,5 +1,4 @@
 // [Title] Triangle 2 (ASCII Art) 
-
 #include <stdio.h>
 
 int main() {
