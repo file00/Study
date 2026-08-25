@@ -1,5 +1,4 @@
 // [Title] Two Owls (ASCII Art)
-
 #include <stdio.h>
 
 int main() {
