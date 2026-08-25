@@ -1,5 +1,4 @@
 // [Title] Triangular Wave
-
 #include <stdio.h>
 #include <unistd.h> // For usleep function (Use <windows.h> and Sleep() on Windows)
 
