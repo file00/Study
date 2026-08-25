@@ -1,5 +1,4 @@
 // [Title] United States Flag (ASCII Art)
-
 #include <stdio.h>
 
 int main() {
