@@ -3,13 +3,13 @@
 
 int main() {
     
-    printf("    000000    \n");
-    printf("   0      0   \n");
-    printf("   0      0   \n");
-    printf("   0      0   \n");
-    printf("   0      0   \n");
-    printf("   0      0   \n");
-    printf("    000000    \n");
+    printf("    0000000    \n");
+    printf("   0       0   \n");
+    printf("   0       0   \n");
+    printf("   0       0   \n");
+    printf("   0       0   \n");
+    printf("   0       0   \n");
+    printf("    0000000    \n");
     
     return 0;
 }
