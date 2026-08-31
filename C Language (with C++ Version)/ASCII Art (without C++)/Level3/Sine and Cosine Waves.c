@@ -1,5 +1,4 @@
 // [Title] Sine and Cosine Waves
-
 #include <stdio.h>
 #include <math.h>
 #include <unistd.h> // For usleep function
