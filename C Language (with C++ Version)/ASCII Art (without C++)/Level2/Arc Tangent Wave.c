@@ -1,5 +1,4 @@
 // [Title] Arc Tangent Wave
-
 #define _USE_MATH_DEFINES // Enables math constants like M_PI
 #include <stdio.h>
 #include <math.h>
