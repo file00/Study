@@ -3,7 +3,10 @@
 
 int main() {
     
-    printf("(\n");
+    // Added more smoke lines above the chimney
+    printf("           (\n");
+    printf("            )\n");
+    printf("           (\n");
     printf(" \n");
     printf("           )\n");
     printf("         ( _   _._\n");
