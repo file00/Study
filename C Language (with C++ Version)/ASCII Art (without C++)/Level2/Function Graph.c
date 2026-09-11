@@ -7,6 +7,7 @@
 #define PI 3.14159265
 
 int main() {
+    
     char grid[HEIGHT][WIDTH];
     int x, y;
 
