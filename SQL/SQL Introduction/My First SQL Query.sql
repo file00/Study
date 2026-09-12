@@ -1,3 +1,4 @@
+-- [Title] My First SQL Query
 -- Run my First SQL Query
 CREATE DATABASE subjects;
 
