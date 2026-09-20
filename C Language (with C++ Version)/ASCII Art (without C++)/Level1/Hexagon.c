@@ -10,7 +10,6 @@ int main() {
     
     // Middle section: Maximum width
     printf("   *************   \n");
-    printf("   *************   \n");
     
     // Bottom section: Decreasing in width
     printf("    ***********    \n");
