@@ -1,3 +1,4 @@
+-- [Title] Equal to Operator (=)
 -- select all columns from Customers table with first name 'John'
 SELECT *
 FROM Customers
