@@ -4,7 +4,7 @@
 int main() {
 
     // Prints "Hello, World!" and moves the cursor to the next line.
-    printf("Hello, World!\n");   
+    printf("Hello, World! \n");   
 
      /*
      * [Important Rules for printf & Output]
