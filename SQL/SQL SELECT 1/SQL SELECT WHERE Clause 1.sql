@@ -1,3 +1,4 @@
+-- [Title] SQL SELECT WHERE Clause 1
 -- select all columns from the customers table with last_name 'Doe' 
 SELECT *
 FROM Customers
