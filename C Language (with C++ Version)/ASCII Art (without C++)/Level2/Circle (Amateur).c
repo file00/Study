@@ -1,5 +1,4 @@
 // [Title] Circle (ASCII Art)
-
 #include <stdio.h>
 #include <math.h>
 
