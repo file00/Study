@@ -1,4 +1,4 @@
-# Logical Operators
+# [Title] Logical Operators
 
 # logical AND
 print(True and True)     
