@@ -1,4 +1,4 @@
-// Multi-line Comment
+// [Title] Multi-line Comment
 
 /* This is an example of  multi-line comment.
  * The program prints "Hello, World!" to the standard output.
