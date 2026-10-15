@@ -1,8 +1,8 @@
 // [Title] String Input and Output Using fgets
 #include <stdio.h>
 
-int main() {
-    
+int main() 
+{    
     // Create a character array. It can hold up to 49 characters + 1 null character ('\0').
     char greeting[50];
 
