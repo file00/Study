@@ -1,7 +1,8 @@
 // [Title] Exam Prep - Analysis of Output with Escape Sequences
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     // [Step 1] Print first string without a newline sequence
     printf("I love C Language!!"); 
     
