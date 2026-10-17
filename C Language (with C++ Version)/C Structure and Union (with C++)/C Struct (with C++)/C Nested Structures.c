@@ -1,18 +1,20 @@
 // C Nested Structures 
 #include <stdio.h>
 
-struct complex {
+struct complex 
+{
   int imag;
   float real;
 };
 
-struct number {
+struct number 
+{
   struct complex comp;
   int integer;
 } num1;
 
-int main() {
-
+int main() 
+{
   // initialize complex variables
   num1.comp.imag = 11;
   num1.comp.real = 5.25;
