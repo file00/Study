@@ -1,9 +1,9 @@
 // Prevent Executing Code Using Comments
 
-public class Main {
-    
-    public static void main(String[] args) {
-        
+public class Main 
+{
+        public static void main(String[] args) 
+    {    
         System.out.println("some code");
 
         // Prevent the execution of the following line
