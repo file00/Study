@@ -1,4 +1,4 @@
-# Python User Input
+# [Title] Python User Input
 
 # using input() to take user input
 num = input('Enter a number: ')
