@@ -1,4 +1,4 @@
-# Function to Add Two Numbers
+# [Title] Function to Add Two Numbers
 
 # function with two arguments
 def add_numbers(num1, num2):
