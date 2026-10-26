@@ -1,8 +1,7 @@
 // [Title] Basic Structure and Output in C
 #include <stdio.h>
 
-int main()
-{
+int main() {
     // Prints "Hello, World!" and moves the cursor to the next line.
     printf("Hello, World!\n");   
 
