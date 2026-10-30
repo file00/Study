@@ -3,15 +3,14 @@
 #include <string.h>
 
 // create struct with person1 variable
-struct Person 
-{
+struct Person {
   char name[50];
   int citNo;
   float salary;
 } person1;
 
-int main() 
-{
+int main() {
+  
   // assign value to name of person1
   strcpy(person1.name, "George Orwell");
 
