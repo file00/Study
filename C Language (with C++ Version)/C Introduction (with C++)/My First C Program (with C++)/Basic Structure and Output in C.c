@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main() {
+    
     // Prints "Hello, World!" and moves the cursor to the next line.
     printf("Hello, World!\n");   
 
