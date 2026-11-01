@@ -3,15 +3,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct person 
-{
+struct person {
    int age;
    float weight;
    char name[30];
 };
 
-int main() 
-{
+int main() {
    struct person *ptr;
    int i, n;
 
