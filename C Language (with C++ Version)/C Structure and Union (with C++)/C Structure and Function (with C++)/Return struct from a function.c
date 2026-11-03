@@ -1,8 +1,8 @@
 // Return struct from a function 
 
 #include <stdio.h>
-struct student
-{
+
+struct student {
     char name[50];
     int age;
 };
@@ -10,8 +10,8 @@ struct student
 // function prototype
 struct student getInformation();
 
-int main()
-{
+int main() {
+    
     struct student s;
 
     s = getInformation();
@@ -22,8 +22,9 @@ int main()
     
     return 0;
 }
-struct student getInformation() 
-{
+
+struct student getInformation() {
+    
   struct student s1;
 
   printf("Enter name: ");
