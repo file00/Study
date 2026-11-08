@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 int main() {    
-    
     // Allocate a character array. Holds up to 49 characters plus the null terminator ('\0').
     char greeting[50];
 
