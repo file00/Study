@@ -1,6 +1,6 @@
 // Copy String Without Using strcpy()
-
 #include <stdio.h>
+
 int main() {
     char s1[100], s2[100], i;
     printf("Enter string s1: ");
