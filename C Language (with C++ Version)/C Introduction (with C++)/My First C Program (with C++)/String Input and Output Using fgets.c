@@ -3,24 +3,27 @@
 
 int main() {    
     
-    // Create a character array. It can hold up to 49 characters + 1 null character ('\0').
+    // Allocate a character array. Holds up to 49 characters plus the null terminator ('\0').
     char greeting[50];
 
-    // Simple prompt for input (often omitted or simplified in exams).
+    // Simple prompt for input (frequently omitted or simplified in exam contexts).
     printf("Input: ");
 
     /*
-     * [Important Exam Points for fgets]
-     * 1. greeting         -> Target buffer array to store the string.
-     * 2. sizeof(greeting) -> Prevents buffer overflow by limiting input size.
+     * [Key Exam Points for fgets]
+     * 1. greeting         -> Destination buffer array where the string is stored.
+     * 2. sizeof(greeting) -> Maximum number of characters to read (including '\0'), 
+     *                        preventing buffer overflow.
      * 3. stdin            -> Standard input stream (keyboard).
      * 
-     * *Crucial Note: Unlike scanf, fgets includes the newline character (\n) 
-     *                 in the string if there is enough space.
+     * *Crucial Note (Common Exam Trap): 
+     * - Unlike scanf, fgets retains the newline character ('\n') in the buffer 
+     *   if there is sufficient space, immediately followed by the null terminator ('\0').
+     * - Consequently, printing this string will automatically append a line break.
      */
     fgets(greeting, sizeof(greeting), stdin);
     
-    // %s matches with the starting address of the character array to print the string.
+    // %s expects the starting address of the character array to print the string.
     printf("Result: %s", greeting);
 
     return 0;
