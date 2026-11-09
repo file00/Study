@@ -3,7 +3,6 @@
 #include <unistd.h> // For usleep function (Use <windows.h> and Sleep() on Windows)
 
 int main() {
-    
     int spaces = 10;    // Starting position (minimum amplitude)
     int direction = 1;  // 1 for moving right (increasing), -1 for moving left (decreasing)
 
