@@ -1,4 +1,4 @@
-// [Title] Exam Prep - Code Evaluation with Multi-line Comments
+// [Title] Code Evaluation with Multi-line Comments
 #include <stdio.h>
 
 int main() {
@@ -10,14 +10,14 @@ int main() {
     [Trap 1] Multi-line comment disables these operations completely.
     */
 
-    age = age + 5; /* [Trap 2] Inline multi-line comment */ age = age * 2;
+    age = age + 5; /* [Trap 2] */ age = age * 2;
 
     /*
     printf("Age: %d\n", age);
     [Trap 3] This print statement is ignored by the compiler.
     */
 
-    printf("Result: %d", age);
+    printf("Result: %d\n", age);
 
     return 0;
 }
