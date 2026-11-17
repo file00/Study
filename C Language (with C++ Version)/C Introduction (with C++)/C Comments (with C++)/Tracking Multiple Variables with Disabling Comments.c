@@ -1,4 +1,4 @@
-// [Title] Exam Prep - Tracking Multiple Variables with Disabling Comments
+// [Title] Tracking Multiple Variables with Disabling Comments
 #include <stdio.h>
 
 int main() {
@@ -12,16 +12,16 @@ int main() {
      * result = number1 * number2; 
      */
 
-    // [Trap 2] Inline block comment messing up sequential line reading
-    number2 = 5; /* number2 = 30; */ 
+    // [Trap 2] Inline block comment placed inside an expression to obscure the actual value
+    number2 = 5 /* + 30 */; 
 
     // [Step 1] Actual calculation performed by the CPU
-    result = number1 * number2; // 10 * 5
+    result = number1 * number2;
 
     // [Trap 3] Single-line comment disabling an overwrite operation
     // result = result + 100;
 
-    printf("Result: %d", result); 
+    printf("Result: %d\n", result); 
     
     return 0;
 }
