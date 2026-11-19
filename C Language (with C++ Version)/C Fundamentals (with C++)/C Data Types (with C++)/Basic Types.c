@@ -1,9 +1,7 @@
-// Basic Types 
-
+// [Title] Basic Types 
 #include <stdio.h>      
 
 int main() {
-    
     int i;
     float f;
     double db;
@@ -13,14 +11,14 @@ int main() {
     long long c;
     long double d;
     
-    printf("size of int = %ld bytes\n", sizeof(i));
-    printf("size of float = %ld bytes\n", sizeof(f));
-    printf("size of double = %ld bytes\n", sizeof(db));
-    printf("size of char = %ld bytes\n", sizeof(ch));
-    printf("size of short = %ld bytes\n", sizeof(a));
-    printf("size of long = %ld bytes\n", sizeof(b));
-    printf("size of long long = %ld bytes\n", sizeof(c));
-    printf("size of long double = %ld bytes\n", sizeof(d));
+    printf("size of int = %zu bytes\n", sizeof(int));
+    printf("size of float = %zu bytes\n", sizeof(float));
+    printf("size of double = %zu bytes\n", sizeof(double));
+    printf("size of char = %zu bytes\n", sizeof(char));
+    printf("size of short = %zu bytes\n", sizeof(short));
+    printf("size of long = %zu bytes\n", sizeof(long));
+    printf("size of long long = %zu bytes\n", sizeof(long long));
+    printf("size of long double = %zu bytes\n", sizeof(long double));
     
   return 0;
 }
