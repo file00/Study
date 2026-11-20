@@ -1,9 +1,7 @@
 // Arithmetic Operators
 
 class Main {
-  
   public static void main(String[] args) {
-    
     // declare variables
     int a = 12, b = 5;
 
