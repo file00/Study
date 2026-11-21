@@ -10,6 +10,7 @@ int main() {
 
     // [Step 3] Print third string on the new line
     printf("Welcome to Exam");
+    
     return 0;
 }
 
