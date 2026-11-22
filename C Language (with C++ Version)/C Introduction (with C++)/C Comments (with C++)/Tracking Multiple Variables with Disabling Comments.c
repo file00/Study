@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    
     int number1 = 10, number2 = 15;
     int result = 0;
 
@@ -20,7 +19,6 @@ int main() {
 
     // [Trap 3] Single-line comment disabling an overwrite operation
     // result = result + 100;
-
     printf("Result: %d\n", result); 
     
     return 0;
