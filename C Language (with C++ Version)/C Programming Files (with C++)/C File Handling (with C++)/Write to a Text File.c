@@ -3,16 +3,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
+int main() {
    int num;
    FILE *fptr;
 
    // use appropriate location if you are using MacOS or Linux
    fptr = fopen("C:\\program.txt","w");
 
-   if(fptr == NULL)
-   {
+   if(fptr == NULL) {
       printf("Error!");   
       exit(1);             
    }
