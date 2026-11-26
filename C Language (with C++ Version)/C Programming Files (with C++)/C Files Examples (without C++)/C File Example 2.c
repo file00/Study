@@ -1,8 +1,7 @@
 // C File Example 2
 
 #include <stdio.h>
-int main()
-{
+int main() {
    char name[50];
    int marks, i, num;
 
@@ -11,14 +10,12 @@ int main()
 
    FILE *fptr;
    fptr = (fopen("C:\\student.txt", "a"));
-   if(fptr == NULL)
-   {
+   if(fptr == NULL) {
        printf("Error!");
        exit(1);
    }
 
-   for(i = 0; i < num; ++i)
-   {
+   for(i = 0; i < num; ++i) {
       printf("For student%d\nEnter name: ", i+1);
       scanf("%s", name);
 
